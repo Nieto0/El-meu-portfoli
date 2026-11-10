@@ -1,0 +1,127 @@
+img {
+    width: 250px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: blueviolet;
+    box-shadow: 5px 5px 15px 5px #401f61;
+    margin: 20px;
+}
+
+body {
+    background-color: lavender;
+    margin: 0;
+}
+
+.contingut-principal {
+    background-color: #ffffff;
+    color: #333333;
+    border: 2px solid blueviolet;
+    width: 600px;
+    margin: 10px;
+}
+
+h1,
+h2 {
+    color: blueviolet;
+    margin: 10px;
+}
+
+p,
+a {
+    margin: 10px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: blueviolet;
+    margin: 0;
+}
+
+ul li {
+    padding: 10px;
+    float: left;
+    width: 100px;
+    margin: 20px;
+}
+
+ul li:active {
+    transform: scale(0.95);
+}
+
+ul li a {
+    color: #fcfafd;
+    text-decoration: none;
+    font-weight: bold;
+    margin: -10px;
+    font-size: 20px;
+}
+
+div {
+    margin: 20px;
+}
+
+footer {
+    background-color: blueviolet;
+    color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    padding: 8px;
+    background-color: white;
+
+}
+
+table {
+    margin: 20px;
+    text-align: center;
+}
+
+.EN {
+    background-color: rgb(136, 197, 207);
+}
+
+.xarxes {
+    background-color: rgba(158, 110, 82, 0.685);
+}
+
+.MiM {
+    background-color: rgb(240, 211, 173);
+}
+
+.Modul {
+    background-color: rgba(168, 56, 150, 0.589);
+}
+
+.sis {
+    background-color: rgba(255, 0, 255, 0.61);
+}
+
+.tutoria {
+    background-color: pink;
+}
+
+.ofi {
+    background-color: rgba(96, 167, 96, 0.452);
+}
+
+.ipo {
+    background-color: rgba(172, 255, 47, 0.726);
+}
+
+.digi {
+    background-color: rgba(107, 196, 107, 0.753);
+}
+
+.sost {
+    background-color: rgba(147, 101, 190, 0.747);
+}
