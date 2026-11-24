@@ -149,7 +149,7 @@ button {
     max-width: 140px;
     color: white;
     font-weight: bold;
-
+    border-radius: 5px;
 }
 
 input,
