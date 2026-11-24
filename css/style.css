@@ -4,7 +4,7 @@ img {
     border-style: solid;
     border-color: blueviolet;
     box-shadow: 5px 5px 15px 5px #401f61;
-    margin: 20px;
+    margin: 25px;
 }
 
 body {
@@ -23,12 +23,12 @@ body {
 h1,
 h2 {
     color: blueviolet;
-    margin: 10px;
+    margin: 15px;
 }
 
 p,
 a {
-    margin: 10px;
+    margin: 15px;
 }
 
 ul {
@@ -131,12 +131,30 @@ form {
     border-radius: 10px;
     padding: 10px;
     display: grid;
-    grid-template-columns: 400px;
-    margin: 20px;
+    margin: 15px;
     max-width: 400px;
+    border: 2px solid blueviolet;
 }
 
 label {
     padding: 10px;
     margin-left: -10px;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 15px;
+    background-color: blueviolet;
+    padding: 10px;
+    max-width: 140px;
+    color: white;
+    font-weight: bold;
+
+}
+
+input,
+textarea {
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid rgb(175, 175, 175);
 }
